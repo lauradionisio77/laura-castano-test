@@ -4,9 +4,9 @@
     "name": "light",
     "group": "mode",
     "selectedTokenSets": {
-      "palette": "source",
       "mode/light": "enabled",
-      "comp/button/color": "enabled"
+      "comp/button/color": "enabled",
+      "palettes/brandA": "source"
     },
     "$figmaStyleReferences": {
       "color.core.content.primary": "S:0b7f14696b6fa5c540d8f8126d1789a8b69de2cb,",
@@ -65,9 +65,9 @@
     "name": "dark",
     "group": "mode",
     "selectedTokenSets": {
-      "palette": "source",
       "mode/dark": "enabled",
-      "comp/button/color": "enabled"
+      "comp/button/color": "enabled",
+      "palettes/brandA": "source"
     },
     "$figmaStyleReferences": {
       "color.yellow.100": "S:575f2c8389a2bafe7cab93ef2686566350857a60,",
@@ -186,9 +186,9 @@
     "id": "7ec215cb5d41816e20e6eb1ae373d30d1ca2ca9b",
     "name": "global",
     "selectedTokenSets": {
-      "palette": "enabled",
-      "global": "enabled",
-      "comp/button/global": "enabled"
+      "comp/button/global": "enabled",
+      "palettes/brandA": "enabled",
+      "global/brandA": "enabled"
     },
     "$figmaStyleReferences": {
       "color.yellow.100": "S:575f2c8389a2bafe7cab93ef2686566350857a60,",
@@ -388,7 +388,7 @@
     "group": "viewport",
     "selectedTokenSets": {
       "viewport/typography_mobile": "enabled",
-      "global": "source"
+      "global/brandA": "source"
     },
     "$figmaStyleReferences": {
       "font.headline.xl": "S:1e5e463936c4a3d76cfafb7ad9877e2024938496,",
@@ -411,7 +411,7 @@
     "group": "viewport",
     "selectedTokenSets": {
       "viewport/typography_desktop": "enabled",
-      "global": "source"
+      "global/brandA": "source"
     },
     "$figmaStyleReferences": {
       "font.headline.xl": "S:65e788f8f3f6b1fb234b040ca0e5015d86c6a6d0,",
