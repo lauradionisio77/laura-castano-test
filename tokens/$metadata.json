@@ -1,7 +1,10 @@
 {
   "tokenSetOrder": [
-    "global",
-    "palette",
+    "global/brandA",
+    "global/brandB",
+    "palettes/brandA",
+    "palettes/brandB",
+    "palette_semantic",
     "viewport/typography_desktop",
     "viewport/typography_mobile",
     "mode/light",
