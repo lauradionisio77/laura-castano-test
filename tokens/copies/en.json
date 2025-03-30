@@ -420,5 +420,9 @@
       "$type": "text",
       "$value": "English"
     }
+  },
+  "english": {
+    "$type": "boolean",
+    "$value": "true"
   }
 }
